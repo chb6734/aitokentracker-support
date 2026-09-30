@@ -1,0 +1,8 @@
+# GitHub Pages site for the App Store "Support URL" and "Privacy Policy URL"
+# (published from the public repository chb6734/aitokentracker-support by
+# scripts/publish-support-site.sh; the app's code stays in the private repository).
+title: AI Token Tracker
+description: Support and privacy policy for the AI Token Tracker menu bar app
+theme: jekyll-theme-minimal
+lang: en
+show_downloads: false
